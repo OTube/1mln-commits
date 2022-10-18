@@ -1,5 +1,5 @@
-c
-t
-r
-B
-V
+m
+b
+d
+k
+x
