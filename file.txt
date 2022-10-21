@@ -1,5 +1,5 @@
-c
-g
-u
-M
-p
+W
+W
+Q
+R
+s
